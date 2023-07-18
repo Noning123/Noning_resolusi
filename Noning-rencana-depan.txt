@@ -4,4 +4,7 @@ rencana sekarang noning
 fremwor javascrip
 -belajar api
 -belajar note js
--fundamental terstruktur
+-angula
+-react
+-PHP framworknya
+^laravel
