@@ -1,5 +1,6 @@
 rencana sekarang noning
 -mempelajari HTML dan css
 -mempelajari javascrib
--buat web sendiri
+fremwor javascrip
+-belajar api
 -belajar note js
