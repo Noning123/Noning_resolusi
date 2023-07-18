@@ -2,6 +2,11 @@ rencana sekarang noning
 -mempelajari HTML dan css
 -mempelajari javascrib
 fremwor javascrip
+.vuw
 -belajar api
 -belajar note js
 -fundamental terstruktur
+-belajar PHP
+.laravel
+-pythone
+-reacjs
