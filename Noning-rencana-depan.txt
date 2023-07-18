@@ -9,3 +9,4 @@ fremwor javascrip
 -belajar PHP
 .laravel
 -pythone
+-reacjs
